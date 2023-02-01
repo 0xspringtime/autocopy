@@ -4,4 +4,4 @@ __pycache__/
 # ignore json files
 *.json
 
-demo.gif
+*.gif
