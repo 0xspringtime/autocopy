@@ -1,5 +1,4 @@
 from aqt import mw
-#from aqt.reviewer import Reviewer
 from aqt import gui_hooks
 from aqt.utils import showInfo
 
